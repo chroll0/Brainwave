@@ -40,8 +40,11 @@ Follow these steps to set up the project locally on your machine.
 
 Prerequisites
 Make sure you have the following installed on your machine:
+
 1️⃣ Git
+
 2️⃣ Node.js
+
 3️⃣ npm (Node Package Manager)
 
 Cloning the Repository
